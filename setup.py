@@ -373,14 +373,14 @@ class MWNT:
 	#ConstructSWNT(i,j,show=True,Repeated=1,DebugPoints=True)
 #apply transformations to wrap around
 # (5,0) x (10,0)
-Construct = MWNT([(5,0),(10,0)],Repeated=Rational(2))
-Construct.Export()
+#Construct = MWNT([(5,0),(10,0)],Repeated=Rational(2))
+#Construct.Export()
 
 Construct = MWNT([(8,0),(17,0)])
 Construct.Export()
 
-Construct = MWNT([(8,0),(16,0)])
-Construct.Export()
+#Construct = MWNT([(8,0),(16,0)])
+#Construct.Export()
 # (100 atom system)
 # (1000 atom system)
 # (5,0)
